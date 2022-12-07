@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "datatables@1.10.20",
+      "destination": "wwwroot/datatables/"
+    },
+    {
+      "library": "bootstrap3-contact-form@1.4.1",
+      "destination": "wwwroot/bootstrap3-contact-form/"
+    },
+    {
+      "library": "bootstrap3-wysiwyg@0.3.3",
+      "destination": "wwwroot/bootstrap3-wysiwyg/"
+    }
+  ]
+}
